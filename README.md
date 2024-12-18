@@ -15,8 +15,7 @@ Créer une **application de rencontre** en intégrant des **APIs variées** avec
 ---
 
 ### **🛠️ Technologies utilisées**  
-- **Langages :** JavaScript / TypeScript, HTML, CSS  
-- **Framework :** React
+- **Langages :** JavaScript / HTML, CSS  
 - **APIs intégrées :**  
    - [OpenLibrary API](https://openlibrary.org/developers/api) → Pour récupérer des données de livres  
    - [TheMealDB API](https://www.themealdb.com/api.php) → Pour afficher des recettes de cuisine  
